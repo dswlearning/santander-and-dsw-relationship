@@ -633,6 +633,13 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 	body:not(.responsive) .viewer-page-thumb > img {max-width:175px;}
 }
 
+#item15418 {
+	width:315px !important;
+	height:86px !important;
+	left:108px !important;
+	top:814px !important;
+}
+
 #item13463 {
 	width:960px !important;
 	height:863px !important;
